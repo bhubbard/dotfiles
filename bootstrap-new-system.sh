@@ -8,6 +8,11 @@
 
 
 
+# Setup Tomorrow Night theme for terminal
+# https://raw.github.com/chriskempson/tomorrow-theme/master/OS%20X%20Terminal/Tomorrow%20Night.terminal
+
+
+
 dev="$HOME/Development"
 pushd .
 mkdir -p $dev
