@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+/Textmate/TextMate.pid
+*.esproj
