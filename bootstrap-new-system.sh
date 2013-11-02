@@ -2,6 +2,12 @@
 
 # A simple script for setting up OSX dev environment.
 
+
+# Install Git-Extras
+(cd /tmp && git clone --depth 1 https://github.com/visionmedia/git-extras.git && cd git-extras && sudo make install)
+
+
+
 dev="$HOME/Development"
 pushd .
 mkdir -p $dev
