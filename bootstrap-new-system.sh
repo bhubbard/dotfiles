@@ -77,8 +77,10 @@ open_apps() {
   open http://www.sequelpro.com
   echo 'Skype:'
   open http://www.skype.com/en/download-skype/skype-for-computer/
-  echo 'Pixelmator!'
-  open http://www.pixelmator.com
+  echo 'MAMP'
+  open http://www.mamp.info/en/
+  echo 'CodeKit'
+  open https://incident57.com/codekit/
 }
 
 echo 'Should I give you links for system applications (e.g. Skype, Tower, VLC)?'
