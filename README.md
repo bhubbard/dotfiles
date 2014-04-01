@@ -1,3 +1,5 @@
+https://github.com/paulmillr/dotfiles
+
 # Dotfiles
 Colourful & robust OS X configuration files and utilities.
 
