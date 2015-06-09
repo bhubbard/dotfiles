@@ -2,3 +2,7 @@
 *.pyc
 /Textmate/TextMate.pid
 *.esproj
+
+
+.sass-cache
+.sass-cache/*
